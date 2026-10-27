@@ -1,0 +1,19 @@
+# Archivos de sistema y logs
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+.DS_Store
+*.log
+
+# Archivos comprimidos de respaldo
+*.zip
+*.tar.gz
+*.rar
+
+# Editores y entornos
+.vscode/
+.idea/
+.agents/
+skills-lock.json
